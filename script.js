@@ -14,7 +14,7 @@ yesBtn.addEventListener("click", () => {
   document.body.innerHTML = `
     <h1 style="margin-top:150px; color:#b30059;">
       Yayyy Bullu!! 💕😍<br>
-      If yes, we have a date of <br><b>Laphing & Momo 🥟🍜</b><br><br>
+      we have a date of <br><b>Laphing & Momo 🥟🍜</b><br><br>
       — Love, Bhanu 💖
     </h1>
   `;
