@@ -12,9 +12,9 @@ noBtn.addEventListener("mouseover", () => {
 
 yesBtn.addEventListener("click", () => {
   document.body.innerHTML = `
-    <h1 style="margin-top:150px; color:#b30059;">
-      Yayyy Bullu!! 💕😍<br>
-    Since you said yes, we have a date for <br><b>Laphing & Momo 🥟🍜</b><br><br>
+    <h1 style="margin-top:150px; color:#b30059; text-align:center;">
+      Yayyy Bullu!! 💕😍<br><br>
+      <b>Since you said yes, we have a date for laphing and momos 🥟🍜</b><br><br>
       — Love, Bhanu 💖
     </h1>
   `;
